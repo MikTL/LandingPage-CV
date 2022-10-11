@@ -5,4 +5,4 @@ Este proyecto fue diseñado y desarrollado en un taller impartido por el profeso
 Dejo link del [Taller de maquetacion](https://www.youtube.com/watch?v=ErtR07GLq54&list=PLvq-jIkSeTUbf3LXzO2QQa3P-oRMcrTAp)
 
 ## Link del proyecto
-[Abrir](https://MikTL.github.io/LandingPage-CV/LandingPage-CV)
+[Abrir](https://miktl.github.io/LandingPage-CV/Portafilio-CV/)
